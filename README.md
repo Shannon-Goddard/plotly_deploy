@@ -18,7 +18,7 @@
 In this module, we will use Plotly.js, a JavaScript data visualization library, to create an interactive data visualization for the web. The completed work will be displayed in a portfolio we created.  
 
 ## Resources  
-- **Data Source:** [index.html](/index.html),[samples.json](/samples.json), [plots.js](/plots.js) 
+- **Data Source:** [index.html](/index.html), [samples.json](/samples.json), [plots.js](/plots.js) 
 - **Software:** VS Code, Web browser, Command-line interface, GitHub
 
 ## Objectives  
