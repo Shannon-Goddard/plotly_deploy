@@ -44,8 +44,13 @@ This is a simple line chart with three data points. The gridlines are supplied a
 <br/>
 <img align="right" width="400" height="200" src="/pics/barchart.png">
 <br/>
+<br/>
+<br/>
+<br/>
 A line chart isn’t suitable for all data visualizations, however. For example, a line chart will generally do a better job of displaying trends, but a bar chart may be more appropriate to visualize how data is distributed across a number of categories.  
-  
+<br/>
+<br/>
+<br/>
 <br/>
 A pie chart may be helpful in providing an instant view of the data.
 <img align="left" width="400" height="200" src="/pics/piechart.png">  
