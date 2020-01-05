@@ -57,13 +57,18 @@ A line chart isn’t suitable for all data visualizations, however. For example,
 <img align="left" width="400" height="200" src="/pics/piechart.png">
 <br/>
 <br/>
-A pie chart may be helpful in providing an instant view of the data.
-  
+A pie chart may be helpful in providing an instant view of the data.  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>  
 
-
-
+We have previously used GitHub to make our code available to the public and to work on projects collaboratively. GitHub offers a free service called GitHub Pages to deploy projects like ours, to run code on a GitHub server to make it viewable to the public. Without a server, anyone who wants to view our dashboard would need to download the project files and run a local server, such as Python’s HTTP server.
 <p align="center">
-  <img width="900" height="400" src="/pics/.png">
+  <img width="900" height="400" src="/pics/io.png">
 </p>  
 
 ## Challenge Overview
