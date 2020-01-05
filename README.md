@@ -73,10 +73,7 @@ We deployed a our project to [GitHub Pages](https://shannon-goddard.github.io/pl
 ## Challenge Overview
 In this challenge, we have a partially completed dashboard, but need to finish it. We have a completed panel for demographic information and now need to visualize the bacterial data for each volunteer. Specifically, the volunteers should be able to identify the top 10 bacterial species in their belly buttons. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, our volunteers will be able to identify whether that species is found in quantity in their navel.  
 
- <br/>
- <br/>
- <br/>
- <br/>## Challenge Objectives  
+## Challenge Objectives  
 The goals of this challenge are for us to:
 - Create a bar chart of the top ten bacterial species in a volunteer’s navel. Use JavaScript to select only the most populous species.
 - Create a bubble chart to visualize the relative frequency of all the bacterial species found in a volunteer’s navel.
@@ -97,6 +94,14 @@ Continue working with the samples.json dataset, and complete the following tasks
  <br/>
 <img align="left" width="400" height="200" src="/pics/id.png"> In the Demographics Info panel, display all the key-value pairs of the selected individual’s demographic data.  
 
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
  <br/>
  <br/>
  <br/>
