@@ -106,6 +106,18 @@ Continue working with the samples.json dataset, and complete the following tasks
  <br/>
  <br/>
  <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
 <img align="left" width="400" src="/pics/bubble.png"> Create a bubble chart that displays each sample:
 <br/>
 <br/>  
