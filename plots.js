@@ -69,7 +69,6 @@ function buildBarChart(sample) {
 
       var bar_layout = {
         title: "Top 10 OTUs",
-        width: 500,
    
       };
       
@@ -97,9 +96,25 @@ function buildBarChart(sample) {
         {
           domain: { x: [0, 1], y: [0, 1] },
           value: wash_freq,
-          title: {text: "Belly Button Washing Frequency Scrubs per Week"} ,
+          title: {text: "Belly Button Washing Frequency <br> Scrubs per Week", font: {size: 18}},
           type: "indicator",
-          mode: "gauge+number"
+          mode: "gauge+number",
+          gauge: {
+            axis: { range: [null, 10]},
+            bar: { color: "steelblue" },
+            steps: [
+              { range: [0, 1], color: 'rgba(0, 0, 0, 0.5)' },
+              { range: [1, 2], color: 'rgba(0, 0, 0, 0.5)' },
+              { range: [2, 3], color: 'rgba(183,28,28, .5)' },
+              { range: [3, 4], color: 'rgba(183,28,28, .5)' },
+              { range: [4, 5], color: 'rgba(249, 168, 37, .5)' },
+              { range: [5, 6], color: 'rgba(249, 168, 37, .5)' },
+              { range: [6, 7], color: 'rgba(110, 154, 22, .5)' },
+              { range: [7, 8], color: 'rgba(110, 154, 22, .5)' },
+              { range: [8, 9], color: 'rgba(14, 127, 0, .5)' },
+              { range: [9, 10], color: 'rgba(14, 127, 0, .5)' }
+            ],
+          }  
         }
       ];
       
@@ -126,21 +141,23 @@ function buildBarChart(sample) {
         });
         
         var result = resultArray[0];
-        var top_ten_otu_ids = result.otu_ids.slice(0, 10).map(numericIds => {
-          return 'OTU ' + numericIds;
+        
+        var otu_ids = result.otu_ids.map(numericIds => {
+          return numericIds;
         }).reverse();
         
-        var top_ten_sample_values = result.sample_values.slice(0, 10).reverse();
-        var top_ten_otu_labels = result.otu_labels.slice(0, 10).reverse();
+        var sample_values = result.sample_values.reverse();
+        var otu_labels = result.otu_labels.reverse();
         
         var bubble_trace = {
           
-          x: top_ten_otu_ids,  
-          y: top_ten_sample_values,
-          text: top_ten_otu_labels,
+          x: otu_ids,  
+          y: sample_values,
+          text: otu_labels,
           mode: 'markers',
           marker: {
-            size: top_ten_sample_values
+            color: otu_ids,
+            size: sample_values
 
           }
         };
@@ -148,10 +165,8 @@ function buildBarChart(sample) {
           var data = [bubble_trace];
     
           var bubble_layout = {
-            title: "Top Ten Samples",
+            title: "OTU ID",
             showlegend: false,
-            height: 500,
-            width: 1500
 
           };
           
