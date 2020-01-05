@@ -57,15 +57,9 @@ A line chart isn’t suitable for all data visualizations, however. For example,
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<img align="left" width="400" height="200" src="/pics/piechart.png">
 A pie chart may be helpful in providing an instant view of the data.
-<img align="left" width="400" height="200" src="/pics/piechart.png">  
+  
 
 
 
