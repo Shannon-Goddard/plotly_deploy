@@ -35,7 +35,7 @@ By the end of this module, we will be able to:
 - Deploy an interactive chart to GitHub Pages.  
 
 ## Summary  
-<img align="left" width="400" height="200" src="/pics/success.png"> A line chart isn’t suitable for all data visualizations, however. For example, a line chart will generally do a better job of displaying trends, but a bar chart may be more appropriate to visualize how data is distributed across a number of categories. 
+<img align="left" width="400" height="200" src="/pics/barchart.png"> A line chart isn’t suitable for all data visualizations, however. For example, a line chart will generally do a better job of displaying trends, but a bar chart may be more appropriate to visualize how data is distributed across a number of categories. 
 
 
 
