@@ -114,7 +114,7 @@ Continue working with the samples.json dataset, and complete the following tasks
  <br/>
  <br/>
  <br/>
-<img align="left" width="500" src="/pics/bubble.png"> Create a bubble chart that displays each sample:
+<img align="left" width="600" src="/pics/bubble.png"> Create a bubble chart that displays each sample:
 <br/>
 <br/>  
 - Use otu_ids for the x-axis values.  
