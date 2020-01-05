@@ -92,7 +92,9 @@ Continue working with the samples.json dataset, and complete the following tasks
  <br/>
  <br/>
  <br/>
-<img align="left" width="200" height="400" src="/pics/id.png"> **In the Demographics Info panel,** display all the key-value pairs of the selected individual’s demographic data.  
+<img align="left" width="200" height="400" src="/pics/id.png">  
+
+**In the Demographics Info panel,** display all the key-value pairs of the selected individual’s demographic data.  
 
  <br/>
  <br/>
@@ -112,7 +114,9 @@ Continue working with the samples.json dataset, and complete the following tasks
  <br/>
  <br/>
  <br/>
-<img align="left" width="500" src="/pics/bubble.png"> **Create a bubble chart that displays each sample:**
+<img align="left" width="500" src="/pics/bubble.png">  
+
+**Create a bubble chart that displays each sample:**
 <br/>
 <br/>  
 Use otu_ids for the x-axis values.<br/>  
@@ -142,7 +146,3 @@ When a new ID number is selected from the dropdown menu, all the plots and the i
 **Adapt the gauge chart from Plotly documentation to plot the weekly washing frequency of the individual.**  
 - Modify the example gauge code to account for values ranging from 0 through 9.  
 - Update the chart whenever a new sample is selected.  
-
-<p align="center">
-  <img width="900" height="400" src="/pics/gauge.png">
-</p> 
