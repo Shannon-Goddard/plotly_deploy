@@ -117,13 +117,11 @@ Continue working with the samples.json dataset, and complete the following tasks
 <img align="left" width="500" src="/pics/bubble.png">  
 
 **Create a bubble chart that displays each sample:**
-<br/>
-<br/>  
-Use otu_ids for the x-axis values.<br/>  
-Use sample_values for the y-axis values.<br/>  
-Use sample_values for the marker size.<br/>  
-Use otu_ids for the marker colors.<br/>  
-Use otu_labels for the text values.<br/>
+Use otu_ids for the x-axis values.  
+Use sample_values for the y-axis values.  
+Use sample_values for the marker size.  
+Use otu_ids for the marker colors.  
+Use otu_labels for the text values.
 
  <br/>
  <br/>
