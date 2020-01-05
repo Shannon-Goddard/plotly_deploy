@@ -83,7 +83,7 @@ The goals of this challenge are for us to:
 #### Instructions  
 Continue working with the samples.json dataset, and complete the following tasks:  
 
-<img align="left" width="400" height="200" src="/pics/top10.png"> When an individual’s ID is selected, the top 10 bacterial species (OTUs) should be visualized with a bar chart. Create a horizontal bar chart to display the top 10 OTUs found in that individual. 
+<img align="left" width="350" height="200" src="/pics/top10.png"> When an individual’s ID is selected, the top 10 bacterial species (OTUs) should be visualized with a bar chart. Create a horizontal bar chart to display the top 10 OTUs found in that individual. 
  - Use sample_values as the values for the bar chart.
  - Use otu_ids as the labels for the bar chart.
  - Use otu_labels as the hover text for the chart.  
@@ -92,7 +92,7 @@ Continue working with the samples.json dataset, and complete the following tasks
  <br/>
  <br/>
  <br/>
-<img align="left" width="400" height="200" src="/pics/id.png"> In the Demographics Info panel, display all the key-value pairs of the selected individual’s demographic data.  
+<img align="left" width="200" height="400" src="/pics/id.png"> In the Demographics Info panel, display all the key-value pairs of the selected individual’s demographic data.  
 
  <br/>
  <br/>
