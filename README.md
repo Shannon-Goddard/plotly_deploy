@@ -66,7 +66,7 @@ A pie chart may be helpful in providing an instant view of the data.
 <br/>
 <br/>  
 
-We deployed a our project to GitHub Pages. We have previously used GitHub to make our code available to the public and to work on projects collaboratively. GitHub offers a free service called GitHub Pages to deploy projects like ours, to run code on a GitHub server to make it viewable to the public. Without a server, anyone who wants to view our dashboard would need to download the project files and run a local server, such as Python’s HTTP server. Behind the scenes, GitHub Pages runs a server app for our project, much like Python’s HTTP server. However, whereas the local Python server makes the dashboard available only for the user of the specific computer on which it is run, GitHub Pages makes it available to anyone with an internet connection and a web browser.
+We deployed a our project to [GitHub Pages](https://shannon-goddard.github.io/plotly_deploy/). We have previously used GitHub to make our code available to the public and to work on projects collaboratively. GitHub offers a free service called GitHub Pages to deploy projects like ours, to run code on a GitHub server to make it viewable to the public. Without a server, anyone who wants to view our dashboard would need to download the project files and run a local server, such as Python’s HTTP server. Behind the scenes, GitHub Pages runs a server app for our project, much like Python’s HTTP server. However, whereas the local Python server makes the dashboard available only for the user of the specific computer on which it is run, GitHub Pages makes it available to anyone with an internet connection and a web browser.
 <p align="center">
   <img width="900" height="400" src="/pics/io.png">
 </p>  
