@@ -38,10 +38,10 @@ By the end of this module, we will be able to:
 This is a simple line chart with three data points. The gridlines are supplied automatically.When we place our mouse over the top right corner of the chart, we’ll see a menu appear. It has options such as zoom, zoom out, and pan. This menu also comes with the Plotly library and will be available for every visualization we create.
 <img align="left" width="400" height="200" src="/pics/linechart.png">
 <img align="left" width="400" height="200" src="/pics/menu.png">  
-
+<br/>
 A line chart isn’t suitable for all data visualizations, however. For example, a line chart will generally do a better job of displaying trends, but a bar chart may be more appropriate to visualize how data is distributed across a number of categories.  
 <img align="right" width="400" height="200" src="/pics/barchart.png">  
-
+<br/>
 A pie chart may be helpful in providing an instant view of the data.
 <img align="left" width="400" height="200" src="/pics/piechart.png">  
 
