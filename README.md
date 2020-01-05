@@ -13,7 +13,6 @@
 [Challenge Overview](#challenge-overview)  
 [Challenge Objectives](#challenge-objectives)  
 [Challenge Summary](#challenge-summary)  
-[Limitations](#limitations)
 
 
 ## Project Overview
