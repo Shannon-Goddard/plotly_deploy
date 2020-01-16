@@ -13,6 +13,7 @@
 [Challenge Overview](#challenge-overview)  
 [Challenge Objectives](#challenge-objectives)  
 [Challenge Summary](#challenge-summary)  
+[Live Demo](https://shannon-goddard.github.io/plotly_deploy/)
 
 
 ## Project Overview
@@ -143,3 +144,6 @@ When a new ID number is selected from the dropdown menu, all the plots and the i
 **Adapt the gauge chart from Plotly documentation to plot the weekly washing frequency of the individual.**  
 - Modify the example gauge code to account for values ranging from 0 through 9.  
 - Update the chart whenever a new sample is selected.  
+
+## Live Demo
+View a [Live Demo](https://shannon-goddard.github.io/plotly_deploy/) of Plotly Deploy
